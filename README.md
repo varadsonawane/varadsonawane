@@ -145,7 +145,7 @@ A web development and digital solutions agency focused on building modern websit
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varadsonawane1526&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varadsonawane&theme=github_dark"/>
 
 </div>
 
@@ -172,7 +172,7 @@ Research → Prototype → Product → Impact
 
 💼 https://linkedin.com/in/varadsonawane
 
-🐙 https://github.com/varadsonawane1526
+🐙 https://github.com/varadsonawane
 
 </div>
 
