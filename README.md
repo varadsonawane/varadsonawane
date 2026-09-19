@@ -95,7 +95,7 @@ A civic-tech platform developed for Smart India Hackathon to address real-world 
 * Team Caffeine Coders
 * Built for real-world impact
 
-**[🌐 Live Demo](https://civicsetu.vercel.app)**
+**[🌐 Live Demo](https://trycivicsetu.vercel.app)**
 
 </td>
 </tr>
