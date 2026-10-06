@@ -78,7 +78,7 @@ A modern podcast website built for a podcast channel with 50K+ subscribers.
 * DOM manipulation
 * HTML, CSS & JavaScript
 
-**[🌐 Live Demo](https://tappodcast.com)**
+**[🌐 Live Demo](https://amitparwe.com)**
 
 </td>
 
