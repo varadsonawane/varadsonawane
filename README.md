@@ -50,7 +50,7 @@ Currently:
   - Building Full Stack Projects
   - Learning AI/ML
   - Practicing DSA in Java
-  - Participating in Hackathons
+  - Participating in Multiple Hackathons
 
 Open To:
   - Software Engineering Internships
